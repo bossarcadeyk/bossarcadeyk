@@ -1,16 +1,13 @@
-## Hi there 👋
+# yo, i'm bossarcadeyk 👋
 
-<!--
-**bossarcadeyk/bossarcadeyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer building reliable APIs and distributed services. Go & Python. Based in Malaysia.
 
-Here are some ideas to get you started:
+- rewrites it once, then leaves it alone
+- usually building small tools nobody asked for
+- keeps notes about databases that will never be published
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bossarcadeyk&layout=compact&langs_count=8&hide_border=true&theme=synthwave" alt="Top languages" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bossarcadeyk&hide_border=true&theme=synthwave" alt="Commit streak" />
+
+<img src="https://img.shields.io/badge/Redis-bd93f9?style=for-the-badge&logoColor=white" alt="Redis" /> <img src="https://img.shields.io/badge/PostgreSQL-bd93f9?style=for-the-badge&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Go-bd93f9?style=for-the-badge&logoColor=white" alt="Go" />
